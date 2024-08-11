@@ -1,0 +1,17 @@
+{
+    "description": "Will be used to test the XRay on my server",
+
+    "domain": "is-not-a.dev",
+    "subdomain": "mars",
+
+    "owner": {
+        "repo": "https://github.com/Rygovas",
+        "email": "rygovas@gmail.com"
+    },
+
+    "record": {
+        "A": ["83.217.211.74"]
+    },
+
+    "proxied": false
+}
